@@ -1,1 +1,1 @@
-export const BASE_URL = "https://url-shortener-springboot-oig3.onrender.com/api/v1";
+export const BASE_URL = "https://dks-pq4l.onrender.com/api/v1";
