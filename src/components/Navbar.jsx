@@ -12,7 +12,7 @@ function Navbar() {
   return (
     <div className="navbar">
 
-      <a href="/" className="logo">Short.ly</a>
+      <a href="/" className="logo">dks.ks</a>
 
       <div className="nav-links">
 
